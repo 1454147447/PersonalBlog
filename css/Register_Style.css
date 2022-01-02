@@ -1,0 +1,52 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    background-image: url(../img/bgimg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+.bigbox {
+    margin: 0 auto;
+    margin-top: 12%;
+    padding: 20px 50px;
+    background-color: #00000080;
+    width: 30%;
+    height: auto;
+    border-radius: 20px;
+    color: white;
+}
+
+form {
+    margin-top:2rem;
+    margin-left:6rem;
+
+}
+h1 {
+    position: relative;
+    top:0;
+    left:5rem;
+}
+
+    form input {
+        margin: 0.5rem 0; /*行间距*/
+
+    }
+
+.button {
+    border: none;
+    outline: none;
+    margin-top: 1.5rem;
+    margin-bottom: 2rem;
+    width: 120px;
+    height: 2.5rem;
+    border-radius: 3rem;
+    background: linear-gradient(90deg,rgb(181,154,254),rgb(245,189,253));
+    box-shadow: 0 0 8px rgb(181,154,254);
+    cursor: pointer;
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+
+
+}
+
